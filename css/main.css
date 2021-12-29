@@ -48,7 +48,7 @@ h1 {
   width: 100%;
   height: 100%;
   position: fixed;
-  background-image: url("../images/unknown.png");
+  /* background-image: url("../images/unknown.png"); */
   background-repeat: no-repeat;
   background-size: cover;
 }
